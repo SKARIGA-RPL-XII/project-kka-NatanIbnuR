@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.2">
+  <diagram name="Halaman-1" id="ghTsP6lHGL7qq3dEhJoG">
+    <mxGraphModel dx="1123" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Iqmv_EapFA1quwuhdU51-15" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Iqmv_EapFA1quwuhdU51-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" value="start" vertex="1">
+          <mxGeometry height="80" width="136" x="354" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-16" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="Iqmv_EapFA1quwuhdU51-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-4" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Halaman Login" vertex="1">
+          <mxGeometry height="80" width="170" x="320" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-17" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Iqmv_EapFA1quwuhdU51-6" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-18" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="Iqmv_EapFA1quwuhdU51-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-5" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Sudah Mempunyai&lt;div&gt;Akun?&lt;/div&gt;" vertex="1">
+          <mxGeometry height="120" width="160" x="320" y="430" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-19" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Iqmv_EapFA1quwuhdU51-9" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-6" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Login" vertex="1">
+          <mxGeometry height="80" width="150" x="580" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-20" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Iqmv_EapFA1quwuhdU51-8" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-7" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Register" vertex="1">
+          <mxGeometry height="80" width="180" x="50" y="440" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-21" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Iqmv_EapFA1quwuhdU51-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-8" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="&lt;div&gt;Nama, Email, No.HP,&lt;/div&gt;&lt;div&gt;Alamat&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="190" x="80" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-22" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Iqmv_EapFA1quwuhdU51-10" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-9" parent="1" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" value="Halaman Utama" vertex="1">
+          <mxGeometry height="70" width="170" x="560" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-23" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="Iqmv_EapFA1quwuhdU51-13" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-10" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="Pilih Menu" vertex="1">
+          <mxGeometry height="150" width="150" x="560" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="E-Surat" vertex="1">
+          <mxGeometry height="100" width="100" x="460" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Pengaduan&lt;div&gt;Online&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="585" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" value="Informasi&lt;div&gt;RT/RW&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="100" x="710" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-25" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-10" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="Iqmv_EapFA1quwuhdU51-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="810" as="sourcePoint" />
+            <mxPoint x="700" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-26" edge="1" parent="1" source="Iqmv_EapFA1quwuhdU51-10" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" target="Iqmv_EapFA1quwuhdU51-14" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="650" y="810" as="sourcePoint" />
+            <mxPoint x="700" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iqmv_EapFA1quwuhdU51-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;autosize=1;resizable=0;" value="Users" vertex="1">
+          <mxGeometry height="30" width="50" x="385" y="90" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
